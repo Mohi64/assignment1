@@ -4,7 +4,7 @@
     font-family: 'Merriweather', serif;
 }
 .banner{
-    background-image: url('../assignment1-repo/images/Banner\ Image.png');
+    background-image: url('./images/Banner\ Image.png');
     width:1020px;
     height:600px;
     margin:50px 100px ;
@@ -49,7 +49,7 @@
         padding-left:220px;
     }
     .party-greeting{
-        background-image: url('../assignment1-repo/images/Vectorrr.png');
+        background-image: url('./images/Vectorrr.png');
         width: 1000px;
         height:600px;
         justify-content:center;
