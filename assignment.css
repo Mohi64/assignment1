@@ -1,0 +1,304 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Merriweather', serif;
+}
+.banner{
+    background-image: url('../assignment1-repo/images/Banner\ Image.png');
+    width:1020px;
+    height:600px;
+    margin:50px 100px ;
+    opacity: .8;
+    font-family: 'Merriweather', serif;;
+
+}
+.banner-text{
+    color:#fff;
+    text-align:center;
+    padding-top:190px;
+    font-size:32px;
+    font-weight: 400;
+}
+.banner-title{
+    color:#fff;
+    font-size: 72px;
+    font-weight: 900;
+    text-align:center;
+    width:632px;
+    height:190px;
+    padding-left: 200px;
+   }
+   .section-heading{
+    color:#F00;
+   text-align: center;
+   font-size: 88px;
+   font-weight: 700;
+   }
+   .company-manner{
+    color: #F00;
+     text-align: center;
+     font-size: 24px;
+      font-weight: 500;
+      padding:48px;
+    }
+    .category{
+        text-align: center;
+    }
+    .new-year-photo{
+        padding-top:50px;
+        padding-left:220px;
+    }
+    .party-greeting{
+        background-image: url('../assignment1-repo/images/Vectorrr.png');
+        width: 1000px;
+        height:600px;
+        justify-content:center;
+        align-items: center;
+        margin:120px 140px;
+       }
+       .celebration-year{
+        padding-left: 600px;
+        padding-top: 120px;
+
+       }
+       .greeting{
+             color: #FFF;
+            font-size: 64px;
+            font-weight: 900;
+            line-height: 88px; 
+            letter-spacing: 7.04px;
+            width:640px;
+            height:180px;
+            padding-top:126px;
+            padding-left:126px;
+        }
+    .greeting-description{
+        color:#ffffff;
+        font-size: 18px;
+        font-weight: 400;
+        width:700px;
+        height:60px;
+        text-align:justify;
+        padding-left: 126px;
+        padding-top: 24px;
+        }
+.btn{
+    border-radius: 5px;
+    background:#fd6e0a;
+    color:white;
+    border:0;
+    font-size:20px;
+    font-weight:700;
+    padding:15px 35px;
+    margin-top: 48px;
+    margin-left: 150px;
+  }
+  .extra{
+    background:linear-gradient(45deg, rgb(216, 114, 114), white );
+    width:1000px;
+    height:500px;
+    margin:120px 140px;
+    
+  }
+ #extra-place{
+    padding-top:100px;
+    padding-left: 400px;
+ }
+ #extra-date{
+    padding-left:385px;
+    padding-top: 15px;
+    padding-bottom:15px;
+ }
+ #extra-time{
+    padding-left:360px;
+ }
+ .second-button{
+    border-radius: 5px;
+    background:#fd6e0a;
+    color:white;
+    border:0;
+    font-size:20px;
+    font-weight:700;
+    padding:15px 35px;
+    margin-top: 48px;
+    margin-left: 400px;
+   }
+   .celebration-img{
+    width:150px;
+    height:150px;
+    border-width:15px;
+    border-style:solid;
+    border-color:#ff0000;
+    border-radius:50%;
+    box-sizing: border-box;
+    padding:10px;
+   }
+.extra-container{
+    display: flex;
+    gap:30px;
+   }
+   .offer-title{
+     color:#fd6e0a;
+     margin-left: 140px;
+   }
+   .offer-situation{
+    margin-left: 140px;
+   }
+   .offer-description{
+    width:360px;
+    height:140px;
+    margin-left:140px;
+    font-size:20px;
+    text-align:justify;
+   }
+   .year{
+    color:#fd6e0a;
+    margin-right:140px;
+   }
+   .year-description{
+       height:90px;
+       weight:280px;
+       margin-right:140px;
+   }
+   .container1{
+    padding-top:120px;
+   }
+   .container3{
+    padding-top:120px;
+   }
+   .action-type{
+    text-align:center;
+    padding-top:100px;
+   }
+   .action-title{
+    text-align: center;
+    font-size: 60px;
+   }
+   .action-description{
+    text-align: center;
+    width:900px;
+    height:100px;
+    padding-left: 180px;
+    padding-top: 28px;
+   }
+   .discount-ad{
+    width:4450px;
+    height:450px;
+    margin-left:700px;
+    margin-top: 60px;
+    position: relative;
+   }
+   .discount-amount{
+    position: absolute;
+    top:100px;
+   left:-150px;
+  }
+   .lower-red{
+    margin-left: 110px;
+    margin-top: 0px;
+    padding-top: 0px;
+    position:relative;
+   }
+   .flower{
+    position: absolute;
+    top:-450px;
+    left:-150px;
+   }
+   .gift-portfolio{
+    margin-left: 140px;
+    padding-top: 120px;
+   }
+   .gift-heading{
+    color:#fd6e0a;
+    font-size:24px;
+   }
+   .portfolio{
+    font-size: 48px;
+   }
+   .portfolio-description{
+    width:900px;
+    height:60px;
+    padding-top:22px;
+   }
+   .last-container{
+    display: flex;
+    gap:20px;
+    padding-top: 40px;
+    width:1200px;
+    height:400px;
+    margin-left: 140px;
+   }
+   .images{
+    display: flex;
+   gap:20px;
+   padding-top: 30px;
+   margin-left:140px;
+   margin-top: 30px;
+  }
+  .lower-part{
+    background-color: wheat;
+    width: 1000px;
+    height:600px;
+    margin-left: 100px;
+  }
+  #back-img{
+    padding-left:400px;
+    padding-top: 80px;
+  }
+  .lower-heading{
+    font-size:48px;
+    text-align: center;
+  }
+  .lower-description{
+    width: 900px;
+    height: 64px;
+    text-align: center;
+  }
+  .input-email{
+    width: 400px;
+    height: 32px;
+    background-color: aliceblue;
+    margin-left: 230px;
+    border-radius: 16px;
+  }
+  footer{
+    background-color: black;
+    width: 1300px;
+    height: 609px;
+    margin-top: 130px;
+  }
+  .footer-contact{
+    display:flex;
+    padding-top: 120px;
+    padding-left: 130px;
+
+  }
+  .text{
+    width:375px;
+    height: 80px;
+    color:#fff;
+    justify-content: left;
+  }
+  .call a{
+    text-decoration: none;
+    justify-content: left;
+    padding-left: 440px;
+  }
+  .social-media{
+    display: flex;
+    gap:20px;
+    padding-left: 400px;
+  }
+  .copyright{
+      display: flex;
+  }
+  .left{
+    color:#FFF;
+    padding-left: 140px;
+    padding-top: 60px;
+  }
+  .right{
+    padding-left: 800px;
+    padding-top: 60px;
+  }
+   
